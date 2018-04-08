@@ -1,2 +1,2 @@
 # Luku
-Here is a Sudoku solver based on my own thought.
+Here is a Java Sudoku solver based on my own thought.
